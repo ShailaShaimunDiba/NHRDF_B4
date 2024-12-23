@@ -1,0 +1,58 @@
+
+
+/* Banner Css*/
+.banner_section .carousel-indicators [data-bs-target] {
+    
+    width: 15px !important;
+    height: 10px !important;
+    border-radius: 50%;
+    margin-right: 10px;
+    background-color: #4caf508c;
+
+}
+
+.banner_section .carousel-indicators {
+   
+    bottom: 224px;
+    left: 124px;
+}
+
+
+/* Gallary Css*/
+
+.gallary_section .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    
+    background-color: #666768;
+}
+
+.gallary_section .nav-link {
+
+    color: #E91E63;
+    
+}
+
+/*Employee Section*/
+
+.employee-section .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    
+    background-color: #666768;
+}
+
+.employee-section .nav-link {
+
+    color: #E91E63;
+    
+}
+
+/* Contact Css*/
+
+/* footer css*/
+.footer h3 {
+margin-top: 25px;
+font-size: calc(0.3rem + 0.6vw);
+}
+
+.footer a{
+    text-decoration: none;
+    color: black;
+}
